@@ -1,6 +1,6 @@
 package br.com.uri.uriJudge.pag3;
 
-public class URI095SequenciaIj {
+public class URI1095SequenciaIj {
 
 	public static void main(String[] args) {
 
