@@ -24,7 +24,8 @@ public class URI1098SequenciaIj4 {
 				countIndexTwo += 1;
 
 			}
-
+			
+			//zerando coluna J;
 			countIndexTwo -= 3;
 			countIndexOne += 0.2;
 			countIndexTwo += 0.2;
