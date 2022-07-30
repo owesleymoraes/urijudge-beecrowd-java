@@ -8,7 +8,7 @@ public class URI1116DividindoXY {
 	public static void main(String[] args) {
 
 		try (Scanner numbers = new Scanner(System.in)) {
-
+		
 			numbers.useLocale(Locale.ENGLISH);
 			int inputNumber = (int) numbers.nextDouble();
 
